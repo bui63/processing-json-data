@@ -17,7 +17,7 @@
   "paymentMethods": [
     "PayPal",
     "Stripe",
-    "Paytm"
+	"PhonePe"
   ],
   "profileInfo": {
     "gender": "Male",
