@@ -16,7 +16,8 @@
   },
   "paymentMethods": [
     "PayPal",
-    "Stripe"
+    "Stripe",
+    "Paytm"
   ],
   "profileInfo": {
     "gender": "Male",
